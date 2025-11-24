@@ -1,6 +1,6 @@
 # Fitness Tracker App (Java Swing + JDBC)
 
-**Author:** Aadii
+**Author:** Aditya Vatsa,Jitansh Binwal ,MD Dilkhush
 
 ## Short description
 A Java Swing GUI-based fitness tracker with JDBC (MySQL) backend. Implements core OOP concepts, collections & generics, multithreading, and DAO-based database operations — built for Review 1.
